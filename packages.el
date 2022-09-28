@@ -101,5 +101,12 @@
 (defun org-roam/init-org-roam-ui ()
   (use-package org-roam-ui
     :after org-roam-timestamps
+    :config
+    (progn
+      (spacemacs/declare-prefix "aor" "org-roam")
+      (spacemacs/set-leader-keys
+        "aoro" 'org-roam-ui-open
+      )
+    )
   )
 )
