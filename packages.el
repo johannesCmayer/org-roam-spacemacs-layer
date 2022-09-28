@@ -11,6 +11,7 @@
    )
 )
 
+;; This defun is taken from a forum answer that I can't be bothered to look up again.
 (defun org-roam/init-org-roam ()
   (use-package org-roam
     :defer t
