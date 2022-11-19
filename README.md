@@ -1,6 +1,6 @@
 # org-roam-spacemacs-layer
 
-**DO NOT USE THIS, just enable `org-roam` IN THE `.dspacemacs`, which has also version 2 by now, as described [here](https://develop.spacemacs.org/layers/+emacs/org/README.html#org-roam-support).**
+**DO NOT USE THIS, just enable `org-roam` IN THE `.dspacemacs`, as described [here](https://develop.spacemacs.org/layers/+emacs/org/README.html#org-roam-support), as spaceemacs also version 2 by now.**
 
 Add a layer for org-roam V2 and supporting packages
 
